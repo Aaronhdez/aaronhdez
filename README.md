@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate and curious programmer who is trying to develop his abilities in this dark and tortuous, but hilarious universe.
+I am a passionate and curious programmer who is trying to develop his abilities in this dark, tortuous and hilarious universe.
 
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning Computer Science at University of Las Palmas
