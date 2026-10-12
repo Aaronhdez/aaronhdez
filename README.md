@@ -4,6 +4,6 @@ I am Aarón, a passionate and curious programmer who is trying to develop his ab
 
 - 😄 Pronouns: He/Him
 - 💻 BCS in Software Engineering by University of Las Palmas
-- 📝 TDD | SOLID | Clean code | 
-- 🤖 Agentic Developmment | SDD
+- 📝 TDD | SOLID | Clean Architecture Principles 
+- 🤖 Agentic Development | SDD
 - ⚡ I love HOI4 modding!
